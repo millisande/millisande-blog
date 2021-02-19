@@ -1,5 +1,24 @@
+site: Millisande Blog
+url: millisande.co.uk
 title: Millisande Reviews Games
-markdown: kramdown
+description: A blog for reviewing games Millisande likes
+twitter: 
+  username: millisande
+  card: summary
+  creator: millisande
+author:
+  twitter: millisande
+  name: Millisande
+  email: millisande
+  url: millisande.co.uk
+permalink: pretty
+
+baseurl: ""
+
+highlighter: none
+
+exclude:
+  - .jekyll-cache
 
 plugins:
   - jekyll-paginate
