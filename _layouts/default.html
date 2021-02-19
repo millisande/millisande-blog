@@ -3,27 +3,26 @@
 		<head>
 			<title>{{ page.title }}</title>
 			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="css/main.css">
+			<link rel="stylesheet" type="text/css" href="/css/main.css">
 		</head>
 		<body>
-			<nav>
-	    		<ul>
-                    <li><a href="/">Home</a></li>
-                    <li><a href="/about">About</a></li>
-                    <li><a href="/cv">CV</a></li>
-                    <li><a href="https://w3.ibm.com/w3publisher/millisande">Blog</a></li>
-	    		</ul>
-			</nav>
-			<div class="container">
-			
-			{{ content }}
-			
-			</div><!-- /.container -->
+			<div id="main">
+				<div id="about">
+					<img src="/assets/CHSDM-103280_02-000001.jpg">
+					<p>I am a 20 something who owns a Nintendo Switch. I seem to have a specific taste in video games, specifically games involving both puzzles and story. I struggle to find games that seem to hit that sweet spot. There must be other people with similar taste in the same boat. So this page is for them. </p>
+					<p>Benefit from my prior attempts to find good games. Read my reviews and find games that hit the sweet spot.</p>
+					<a href="/">See all articles</a>
+				</div>
+				<div class="container">
+				
+				{{ content }}
+				
+				</div>
+			</div>
 			<footer>
-	    		<ul>
-                    <li><a href="mailto:millisande.bath1@ibm.com">email</a></li>
-                    <li><a href="https://github.ibm.com/Millisande-Bath1">github.com/millisande-bath1</a></li>
-				</ul>
+	    		<p>Created by Millisande Bath with Github Pages and Jekyll.</p>
+				<p>In her other life she is a Software dev, however, this was an experiment into using Jekyll and her other work is much better.</p>
+				<p>For once this is my website and therefore I can say whatever I like.</p>
 			</footer>
 		</body>
 	</html>
