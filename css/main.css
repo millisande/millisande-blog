@@ -1,48 +1,51 @@
 body {
   width: 100%;
-  height: calc(100vh - 35px);
   background-color: #e5decd;
   color: #918878;
+  margin: 0px;
+}
+
+#hero {
+  background-image: url("/assets/CHSDM-103280_02-000001.jpg");
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  height: 50vh;
+  background-attachment: fixed;
+}
+
+#hero h1 {
+  padding: 0px 30px;
+  position: absolute;
+  top: 2vh;
+  color: cadetblue;
+}
+
+#hero ul {
+  list-style-type: none;
   display: flex;
-  flex-direction: column;
-  justify-content: space-between;
+  padding-left: 20px;
 }
 
-#main {
-  display: flex;
-  justify-content: flex-start;
-  margin: 60px 20px 30px 20px;
+#hero li {
+  padding: 10px;
 }
 
-#about {
-  border-right: solid 1px #918878;
-  flex-shrink: 3;
-  overflow: hidden;
-  padding: 30px;
-  max-width: 380px;
-  min-width: 30%;
-  display: flex;
-  flex-direction: column;
-}
-
-#about img {
-  max-width: 350px;
-  width: 95%;
-  align-self: center;
-}
-
-#about p {
-  color: #918878;
-  font-size: 14px;
-}
-
-a {
+#hero a {
+  border: solid 1px cadetblue;
+  color: cadetblue;
+  padding: 5px;
   text-decoration: none;
-  color: #6c745e;
 }
 
-a:hover {
-  text-decoration: underline;
+#hero a:hover {
+  background-color: cadetblue;
+  color: #e5decd;
+}
+
+.nav {
+  position: absolute;
+  top: 10vh;
 }
 
 h2 {
@@ -51,6 +54,17 @@ h2 {
 
 .container {
   padding: 30px;
+  min-height: 70vh;
+}
+
+.container a {
+  text-decoration: none;
+  color: #6c745e;
+}
+
+.container a:hover {
+  text-decoration: underline;
+  color: cadetblue;
 }
 
 footer {
@@ -71,4 +85,16 @@ footer p {
 
 .post img {
   max-width: 100%;
+}
+
+.page img {
+  max-width: 50vh;
+}
+
+#signature {
+  width: 30vh;
+}
+
+#signature img {
+  width: 100%;
 }

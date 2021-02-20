@@ -15,8 +15,6 @@ permalink: pretty
 
 baseurl: ""
 
-highlighter: none
-
 exclude:
   - .jekyll-cache
 
