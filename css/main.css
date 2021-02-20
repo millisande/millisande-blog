@@ -19,6 +19,8 @@ body {
   position: absolute;
   top: 2vh;
   color: cadetblue;
+  white-space: nowrap;
+  overflow: hidden;
 }
 
 #hero ul {
