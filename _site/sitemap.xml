@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>millisande.co.uk/2020/02/19/unrailed</loc>
-<lastmod>2020-02-19T00:00:00+00:00</lastmod>
+<loc>millisande.co.uk/2021/02/19/unrailed</loc>
+<lastmod>2021-02-19T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>millisande.co.uk/2021/02/23/katrielle-and-the-millionaire-conspiracy</loc>
+<lastmod>2021-02-23T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>millisande.co.uk/pages/about/</loc>
@@ -15,5 +19,11 @@
 </url>
 <url>
 <loc>millisande.co.uk/tag/time-sensitive/</loc>
+</url>
+<url>
+<loc>millisande.co.uk/tag/point-and-click/</loc>
+</url>
+<url>
+<loc>millisande.co.uk/tag/brain-teasers/</loc>
 </url>
 </urlset>

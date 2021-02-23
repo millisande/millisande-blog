@@ -93,6 +93,11 @@ footer p {
   max-width: 50vh;
 }
 
+.info {
+  display: flex;
+  flex-direction: row;
+}
+
 #signature {
   width: 30vh;
 }
