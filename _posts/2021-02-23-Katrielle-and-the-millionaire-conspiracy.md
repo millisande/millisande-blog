@@ -68,3 +68,9 @@ Cooperative N/A
 Story 2/10
 
 Fun 3/10
+
+### Afterword
+
+I was surprised by the depth of my feeling about this disappointing entry into the franchise. I wanted more vindication for my feelings so I went looking for if anyone had done a video essay on the franchise. I found this [underwatched video](https://www.youtube.com/watch?v=ZnJlHwQJeAM) which goes into this game and past games in more depth. It does spoil some of the details about the ending of the game and some of the puzzles so be warned. The essayist has a more potent dislike for Katrielle the character than I did. I think they're right about the change from Professor Layton uncovering puzzles for the joy of puzzles and out of gentlemanly duty, to Katrielle's preference for gut feeling accusations being a negative and strange one. I thought it was an interesting break down into all of the ways that this game was flawed that extends my own arguments and is worth the watch. 
+
+I'm also disappointed that he includes the news that there will be no more Western localised Professor Layton games. 
